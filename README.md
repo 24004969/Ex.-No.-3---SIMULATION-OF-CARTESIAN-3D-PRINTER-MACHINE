@@ -60,8 +60,8 @@
 ## Output:
 ![image](https://github.com/user-attachments/assets/e4b01ed8-82cf-4226-8344-0f8b169ddf79)
 
-### Name: 
-### Register Number:
+### Name: AJAY J
+### Register Number: 24004969
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
